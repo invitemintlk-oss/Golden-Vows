@@ -22,7 +22,8 @@ function getSiteUrl(env: Record<string, string>): string {
 async function ensureOgImage(): Promise<void> {
   const sharp = (await import('sharp')).default;
   await sharp(SHARE_IMAGE_SOURCE)
-    .jpeg({quality: 85, progressive: true})
+    .resize(1200, 630, { fit: 'cover' })
+    .jpeg({quality: 70, progressive: true})
     .toFile(SHARE_IMAGE_OUTPUT);
 }
 
