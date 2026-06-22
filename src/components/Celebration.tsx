@@ -40,7 +40,7 @@ export const Celebration: React.FC = () => {
         >
           <div className="relative overflow-hidden mx-auto max-w-2xl" style={{ border: "1.5px solid rgba(212,175,55,0.38)", boxShadow: "0 0 0 5px rgba(212,175,55,0.05), 0 24px 48px -16px rgba(0,0,0,0.65)" }}>
             <div className="aspect-[2.15/1] min-h-[10rem] sm:min-h-[13rem] max-h-[20rem] w-full">
-              <img src="https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.ft.lk/assets/uploads/image_0f8325a5b5.jpg" alt="Wedding venue" className="h-full w-full object-cover" loading="lazy" decoding="async" style={{ filter: "brightness(0.84) contrast(1.04)" }} />
+              <img src="https://content.skyscnr.com/available/2552073778/2552073778_960x576.jpg" alt="Wedding venue" className="h-full w-full object-cover" loading="lazy" decoding="async" style={{ filter: "brightness(0.84) contrast(1.04)" }} />
             </div>
             {/* Corner accents */}
             <div className="absolute" style={{ width: "18px", height: "18px", top: "7px", bottom: "auto", left: "7px", right: "auto", borderTop: "1.5px solid #E8C547", borderLeft: "1.5px solid #E8C547" }} aria-hidden="true" />
@@ -68,9 +68,9 @@ export const Celebration: React.FC = () => {
             <h3 className="font-display text-2xl sm:text-3xl font-light italic mb-2" style={{ color: "#E8C547" }}>The Celebration</h3>
             <div className="h-px w-10 mx-auto mb-5" style={{ background: "linear-gradient(90deg, transparent, #D4AF3788, transparent)" }} />
             <div className="space-y-2.5 text-sm font-light leading-relaxed font-sans" style={{ color: "rgba(255,255,255,0.7)" }}>
-              <p>Saturday, 18th of July 2026</p>
+              <p>Saturday, 15th of August 2026</p>
               <p>6.30 pm to 11.00 pm</p>
-              <p>The Kingsbury Colombo</p>
+              <p>Grand Oriental Hotel</p>
               <p className="text-xs opacity-80">(Victorian Ballroom)</p>
             </div>
           </motion.div>

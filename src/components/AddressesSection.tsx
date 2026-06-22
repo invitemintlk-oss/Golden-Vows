@@ -13,19 +13,19 @@ export const AddressesSection: React.FC = () => {
   const addressesData = {
     church: {
       title: 'Church Function',
-      name: "St. Joseph's Church",
-      address: 'Wennappuwa, Sri Lanka',
+      name: "St. Patrick's Cathedral",
+      address: 'New York, NY, USA',
     },
     poruwa: {
-      title: 'Poruwa & Reception',
-      name: 'Monarch Imperial',
-      address: '31A New Hospital Rd, Sri Jayawardenepura',
+      title: 'Ceremony & Reception',
+      name: 'Grand Oriental Hotel',
+      address: '123 Celebration Blvd, New York, NY',
       note: 'Ceremony begins at 04:30 PM',
     },
     homecoming: {
-      title: 'The Homecoming',
-      name: 'Maze Glass House',
-      address: 'Chilaw - Colombo Main Rd, Wennappuwa 61170',
+      title: 'Post-Wedding Party',
+      name: 'The Crystal Garden',
+      address: '456 Event Street, New York, NY',
     }
   };
 

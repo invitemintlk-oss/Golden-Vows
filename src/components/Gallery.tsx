@@ -4,37 +4,37 @@ import { motion } from 'motion/react';
 const galleryImages = [
   {
     id: 1,
-    src: "/2026.07.16-20260612T100209Z-3-001/my/DSC01583.jpg",
+    src: "/my/pexels-framesbygaurav-37380250.jpg",
     aspectRatio: "3/4",
     rotate: "0deg"
   },
   {
     id: 2,
-    src: "/2026.07.16-20260612T100209Z-3-001/my/DSC01639.jpg",
+    src: "/my/pexels-framesbygaurav-37380257.jpg",
     aspectRatio: "4/3",
     rotate: "0.4deg"
   },
   {
     id: 3,
-    src: "/2026.07.16-20260612T100209Z-3-001/my/RWP01348.jpg",
+    src: "/my/pexels-kalistro666-31107090.jpg",
     aspectRatio: "1/1",
     rotate: "-0.35deg"
   },
   {
     id: 4,
-    src: "/2026.07.16-20260612T100209Z-3-001/my/RWP01402.jpg",
+    src: "/my/pexels-framesbygaurav-37380244.jpg",
     aspectRatio: "2/3",
     rotate: "0deg"
   },
   {
     id: 5,
-    src: "/2026.07.16-20260612T100209Z-3-001/my/RWP00032.jpg",
+    src: "/my/pexels-kalistro666-31107093.jpg",
     aspectRatio: "5/4",
     rotate: "0.4deg"
   },
   {
     id: 6,
-    src: "/2026.07.16-20260612T100209Z-3-001/my/RWP00101.jpg",
+    src: "/my/pexels-rogeriosouzafotografia-20743407.jpg",
     aspectRatio: "3/2",
     rotate: "-0.35deg"
   }

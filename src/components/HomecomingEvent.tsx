@@ -24,7 +24,7 @@ export const HomecomingEvent: React.FC = () => {
               </div>
 
               <h2 className="text-5xl sm:text-6xl lg:text-7xl font-display text-stone-800 mb-8 leading-[1.1] drop-shadow-sm">
-                The <span className="italic font-light text-homecoming-primary">Homecoming</span>
+                Post-Wedding <span className="italic font-light text-homecoming-primary">Party</span>
               </h2>
 
               <p className="text-stone-500/90 font-serif text-lg sm:text-xl leading-relaxed mb-16 max-w-lg">
@@ -40,7 +40,7 @@ export const HomecomingEvent: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-serif text-2xl sm:text-3xl text-stone-800 mb-1 group-hover:text-homecoming-primary transition-colors duration-500">Sunday, July 26</h4>
-                    <p className="text-stone-500/80 text-[10px] sm:text-[11px] uppercase tracking-[0.2em] font-bold">Maze Glass House, Wennappuwa</p>
+                    <p className="text-stone-500/80 text-[10px] sm:text-[11px] uppercase tracking-[0.2em] font-bold">The Crystal Garden, New York</p>
                   </div>
                 </div>
 

@@ -6,12 +6,12 @@ interface IntroVideoProps {
 }
 
 const images = [
-  '/2026.07.16-20260612T100209Z-3-001/my/RWP00532.jpg',
-  '/2026.07.16-20260612T100209Z-3-001/my/RWP00717.jpg',
-  '/2026.07.16-20260612T100209Z-3-001/my/RWP00916.jpg',
-  '/2026.07.16-20260612T100209Z-3-001/my/DSC01583.jpg',
-  '/2026.07.16-20260612T100209Z-3-001/my/RWP01402.jpg',
-  '/2026.07.16-20260612T100209Z-3-001/my/RWP01348.jpg',
+  '/my/pexels-dream_-makkerzz-1603229-30431563.jpg',
+  '/my/pexels-framesbygaurav-37380245.jpg',
+  '/my/pexels-framesbygaurav-37380244.jpg',
+  '/my/pexels-framesbygaurav-37380250.jpg',
+  '/my/pexels-framesbygaurav-37380244.jpg',
+  '/my/pexels-kalistro666-31107090.jpg',
 ];
 
 export const IntroVideo: React.FC<IntroVideoProps> = ({ onComplete }) => {

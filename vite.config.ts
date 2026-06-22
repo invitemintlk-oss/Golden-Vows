@@ -3,14 +3,14 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig, loadEnv, type Plugin} from 'vite';
 
-const SHARE_FAVICON_PATH = '/2026.07.16-20260612T100209Z-3-001/my/RWP01402.jpg';
+const SHARE_FAVICON_PATH = '/my/pexels-framesbygaurav-37380244.jpg';
 const SHARE_IMAGE_PATH = '/og-image.jpg';
 const SHARE_IMAGE_SOURCE = path.join(
   __dirname,
-  'public/2026.07.16-20260612T100209Z-3-001/my/RWP00717.jpg',
+  'public/my/pexels-framesbygaurav-37380245.jpg',
 );
 const SHARE_IMAGE_OUTPUT = path.join(__dirname, 'public/og-image.jpg');
-const DEFAULT_SITE_URL = 'https://gimhan-teneeshiya-weddinginvitation.vercel.app';
+const DEFAULT_SITE_URL = 'https://dinelka-prabashi-wedding.vercel.app';
 
 function getSiteUrl(env: Record<string, string>): string {
   const configured = env.VITE_SITE_URL?.trim();

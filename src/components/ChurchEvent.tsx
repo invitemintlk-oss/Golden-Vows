@@ -40,7 +40,7 @@ export const ChurchEvent: React.FC = () => {
                   </div>
                   <div>
                     <h4 className="font-serif text-2xl sm:text-3xl text-stone-800 mb-1 group-hover:text-church-primary transition-colors duration-500">Wednesday, July 22</h4>
-                    <p className="text-stone-500/80 text-[10px] sm:text-[11px] uppercase tracking-[0.2em] font-bold">St. Joseph's Church, Wennappuwa</p>
+                    <p className="text-stone-500/80 text-[10px] sm:text-[11px] uppercase tracking-[0.2em] font-bold">St. Patrick's Cathedral, New York</p>
                   </div>
                 </div>
 
