@@ -43,7 +43,7 @@ export const HeroContent: React.FC = () => {
         transition={{ duration: 1.5, ease: "easeOut" }}
       >
         <p className="font-serif text-2xl sm:text-3xl mb-2" style={{ color: "#E8C547", textShadow: "0 0 48px rgba(232,197,71,0.35)" }}>Save the Date</p>
-        <p className="text-[10px] uppercase tracking-[0.55em] mb-10 sm:mb-12 font-sans" style={{ color: "rgba(255,255,255,0.38)" }}>2026</p>
+        <p className="text-[10px] uppercase tracking-[0.55em] mb-10 sm:mb-12 font-sans" style={{ color: "rgba(255,255,255,0.38)" }}>2027</p>
         
         <h1 className="font-display font-light italic leading-[0.95] tracking-wide" style={{ fontSize: "clamp(2.4rem, 10vw, 5.5rem)", color: "#FFFFFF", textShadow: "0 2px 48px rgba(0,0,0,0.45), 0 0 80px #F5EDD01f", overflowWrap: "break-word", wordBreak: "break-word", maxWidth: "100%" }}>
           Dinelka
@@ -63,7 +63,7 @@ export const HeroContent: React.FC = () => {
           <div className="flex-1 h-px" style={{ background: "linear-gradient(270deg, transparent, #D4AF37bb)" }} />
         </div>
         
-        <p className="text-sm sm:text-base font-light leading-snug font-sans" style={{ color: "rgba(255,255,255,0.82)" }}>Saturday, 15th of August 2026</p>
+        <p className="text-sm sm:text-base font-light leading-snug font-sans" style={{ color: "rgba(255,255,255,0.82)" }}>Sunday, 7th of February 2027</p>
         <p className="mt-2 text-xs sm:text-sm font-light font-sans" style={{ color: "rgba(232,197,71,0.72)" }}>Grand Oriental Hotel</p>
       </motion.div>
 

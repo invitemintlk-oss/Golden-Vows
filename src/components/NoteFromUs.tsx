@@ -54,8 +54,8 @@ export const NoteFromUs: React.FC = () => {
             <p className="font-display font-light italic leading-[1.4] px-2" style={{ fontSize: "clamp(1.5rem, 4vw, 2.4rem)", color: "rgba(255, 252, 245, 0.88)", marginTop: "-1rem" }}>
               With hearts full of love, we, along with our parents
               <span className="block mt-4 mb-4 text-[#B8942A]" style={{ fontSize: "clamp(1.2rem, 3vw, 1.8rem)" }}>
-                Mr &amp; Mrs John Doe Sr.<br />
-                Mr &amp; Mrs Robert Smith
+                Mr &amp; Mrs Sunil Perera<br />
+                Mr &amp; Mrs Chandana Fernando
               </span>
               warmly invite you to join us as we begin our new life together. Your presence will be a true blessing to us as we celebrate this sacred union… “Therefore what God has joined together, let no one separate.” – Mark 10:9 …We look forward to sharing this joyful and blessed day with you! ✨
             </p>

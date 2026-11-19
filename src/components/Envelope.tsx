@@ -90,7 +90,7 @@ export const Envelope: React.FC<EnvelopeProps> = ({ onComplete }) => {
                   Request the honor of your presence
                 </p>
                 <p className="text-base sm:text-2xl font-serif text-[#4a5770] tracking-[0.2em] mt-1 drop-shadow-sm leading-none font-semibold">
-                  20 • 08 • 2026
+                  07 • 02 • 2027
                 </p>
               </motion.div>
 
